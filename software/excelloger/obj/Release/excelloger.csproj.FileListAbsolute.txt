@@ -1,0 +1,7 @@
+D:\Dropbox\Projects\NanoScope\NanoScope_201603041\software\excelloger\bin\Release\excelloger.exe
+D:\Dropbox\Projects\NanoScope\NanoScope_201603041\software\excelloger\bin\Release\excelloger.pdb
+D:\Dropbox\Projects\NanoScope\NanoScope_201603041\software\excelloger\obj\Release\excelloger.Form1.resources
+D:\Dropbox\Projects\NanoScope\NanoScope_201603041\software\excelloger\obj\Release\excelloger.Properties.Resources.resources
+D:\Dropbox\Projects\NanoScope\NanoScope_201603041\software\excelloger\obj\Release\excelloger.csproj.GenerateResource.Cache
+D:\Dropbox\Projects\NanoScope\NanoScope_201603041\software\excelloger\obj\Release\excelloger.exe
+D:\Dropbox\Projects\NanoScope\NanoScope_201603041\software\excelloger\obj\Release\excelloger.pdb
